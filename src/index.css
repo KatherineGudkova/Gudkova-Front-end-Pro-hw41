@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.Header{
+  background-color: #8ddf82;
+}
+
+.Sidebar{
+  background-color: #f9e492;
+}
+
+.MainContainer{
+  background-color: #b6f3ff;
+}
